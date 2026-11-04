@@ -1,0 +1,10 @@
+CabinBox 第一版：FingerBox + SocksBox 合并。
+
+- 修复关窗后密码 / 下载记录丢失（正常关窗等落盘；Mac 用固定模拟钥匙串）
+- 内置线路引擎：订阅 / 手动线路（vless、trojan、socks5、http、IP:端口:账号:密码），窗口一窗一线自动分配，同出口识别
+- 批量新建 500、批量改分组 / 线路、线路筛选、同开上限、关窗清缓存
+- 迁移：一键导出 .cbx 包，到另一台电脑导入
+- 本地管理接口防护
+
+SHA-256 macOS: e98df850dfcfc405ba53cf4572a96f1e85d33e3d549927ed1058104412f2a1c1
+SHA-256 windows: e195e3109685ecef005fed1675dc867352b56fa3306fd7c9e022bc1f4df45285
